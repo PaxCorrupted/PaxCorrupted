@@ -1,0 +1,29 @@
+# Generic important files
+*.mod                    @dgemmov
+/CONTRIBUTING.md         @dgemmov
+/README.md               @dgemmov
+/LICENSE                 @dgemmov
+
+# Map changes
+/map/                    @dgemmov
+
+# Defines
+/common/defines/        @dgemmov
+
+# Git configurations
+/.gitignore              @dgemmov
+/.gitattributes          @dgemmov
+/.github/                @dgemmov
+
+# Tools
+/tools/                  @dgemmov
+
+# Pre-commit
+/.pre-commit-config.yaml @dgemmov
+
+# CODEOWNERS
+/CODEOWNERS              @dgemmov
+
+# Bug Bot
+/docs/src/content/pages/bug-bot-privacy.md @dgemmov
+/docs/src/content/pages/bug-bot-terms.md @dgemmov
