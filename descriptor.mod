@@ -1,5 +1,5 @@
-version="2.0.2"
-name="Millennium Dawn: Developer Version"
+version="0.0.1"
+name="Pax Corrupted"
 tags={
 	"Alternative History"
 	"Gameplay"
@@ -11,7 +11,7 @@ tags={
 	"Fixes"
 }
 supported_version="1.19.*"
-remote_file_id="2777392649"
+path="mod/PaxCorrupted"
 
 replace_path = "events"
 replace_path = "common/abilities"
