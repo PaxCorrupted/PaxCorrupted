@@ -1441,7 +1441,7 @@
  Sweden.28.o1: "Nous l'avons eu"
  SWE_economical_strain_TT: "§RCela pourrait mettre à rude épreuve notre économie§!\n"
  SWE_batch_4_TT: "§Y60§! units of Swedish §YJAS 39E Gripen§! are added to the national stockpile.\n"
- SWE_border_trade: "[NOR.GetAdjective] Shopping Tourists"
+ SWE_border_trade: "[NRY.GetAdjective] Shopping Tourists"
  SWE_Value_added_Tax: "TVA"
  SWE_Social_insurance: "Charges patronales"
  Sweden_foci.1.t: "Renforcement des Capacités de la Flotte de Chasseurs"
